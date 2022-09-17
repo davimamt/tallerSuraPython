@@ -1,2 +1,4 @@
-# tallerSuraPython
-TALLER DESEMPEÑO PRODUCTO #1
+# TALLER DESEMPEÑO PRODUCTO N. 1
+## Autor: David Alejandro Martinez Martelo
+***
+
